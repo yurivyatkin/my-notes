@@ -1,1 +1,5 @@
-.dendron.cache.json
+node_modules
+.dendron.*
+build
+seeds
+
